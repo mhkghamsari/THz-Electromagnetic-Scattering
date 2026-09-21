@@ -1,0 +1,21 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# COMSOL temporary files
+*.mph.lock
+*.mph.recovery
+*.mphstatus
+
+# Windows temporary files
+Thumbs.db
+
+# General temporary files
+*.tmp
+*.bak
+*~
